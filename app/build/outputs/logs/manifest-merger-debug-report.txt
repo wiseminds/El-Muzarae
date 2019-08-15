@@ -1,0 +1,322 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Wadek/Desktop/ElMuzarae/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /Users/Wadek/Desktop/ElMuzarae/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /Users/Wadek/Desktop/ElMuzarae/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /Users/Wadek/Desktop/ElMuzarae/app/src/main/AndroidManifest.xml:2:1-38:12
+MERGED from [de.hdodenhof:circleimageview:3.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/f8de9891a9618616dfcf2281b5c3c2ac/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/bcf2c988cacb138510bceab2ce1763bc/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/49ca4fa73570ee79396100910b4e4fd7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/44ee488fa3e191c187a93b6e8fc4600a/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/19b3cb5109798ea7866cf153881821ec/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/9f6ffc4ede52469add54da46e55cc1e1/AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.firebase:firebase-database:16.0.4] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/53a160af6ed80fdfb7b58ee0b2f7244a/AndroidManifest.xml:15:1-25:12
+MERGED from [com.google.firebase:firebase-storage:16.0.4] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/767da5bea6a247a927040a4cf35a9672/AndroidManifest.xml:15:1-26:12
+MERGED from [com.github.sd6352051.niftydialogeffects:niftydialogeffects:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/2a4d5a19c472d416d3ebf14024b336bf/AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/d3fe930c047f0fdb6d401aa55e01e493/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/80f9b857c8ac66c481080a700d20b2a9/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/7641d3c88a25ef26a0e2066c8a948c62/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/cadc47acd0269da73a0412f7f21ed44e/AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/04a18184c73a2c22403a334e00ab7455/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-database-collection:16.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/2d23b78f0c554a5eb242c3fc3892d193/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/f904c3e86bfa695575c914a77d5e9e0a/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/c80100120bd716f96e6b6ad995d6e3f2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/d04a639f85296a94e1abe536865897b1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/7d1831270e07642d1c2bb80f074f97c9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/a17a6bff8b8c9f0bf6f893e141e4fdce/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/5e23ddec998877cb13edd9ca87345df5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/13896c94c1166187fb89a205623c4710/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/c46a86bdf7eafcbb696287439566d180/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/b3cdf708885354d593d9d37233901357/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/ff80133a1e8189f9cea630449883ff8d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/d831808e17a94f614fa551f889ddcdc4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/4356ca2608e0332df9f9b1ea12ee4590/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/c839318f96163d218025a72242e3281a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/31afa54d7d728762e951930e88649c39/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/0e41d0bdf84d2d58480160bb70094e5d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/021746a91e651357c88a01e768c6ee89/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/7a38d6a27379b68caa23f7fa28f58d82/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/36d58fdccd99aef12bf0dc35b6e9f4b7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/d9138c8688e438d74e08f0324768c0d2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/aa1f0158064dc81ef23b7fd672d72805/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/16f6d7b90ce350ff2319e0fd82f65573/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/6cd30847ed7c7cb907b4c3ea9d8e5d1e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/c52f594fff8b4f05057d6f826c9da3fb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/344d3aebf47cf93699411e577defc75d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/37e363a1ebf3e1409fc9040dd4b83b1b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/b205c77b9e5e29fc4b3a869c4f6a5a58/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/8009c04fdcd38c10231f624471d459d4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/7cb85e51328deccb8f2b29090c25598c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/aaf6c90e07a49547ec946cd4e6442262/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/60fec8457f21e560d3f4df5cb32a2a22/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/Wadek/Desktop/ElMuzarae/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /Users/Wadek/Desktop/ElMuzarae/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /Users/Wadek/Desktop/ElMuzarae/app/src/main/AndroidManifest.xml:2:1-38:12
+	package
+		ADDED from /Users/Wadek/Desktop/ElMuzarae/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /Users/Wadek/Desktop/ElMuzarae/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Wadek/Desktop/ElMuzarae/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/Wadek/Desktop/ElMuzarae/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Wadek/Desktop/ElMuzarae/app/src/main/AndroidManifest.xml:2:1-38:12
+		INJECTED from /Users/Wadek/Desktop/ElMuzarae/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/Wadek/Desktop/ElMuzarae/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Wadek/Desktop/ElMuzarae/app/src/main/AndroidManifest.xml:2:1-38:12
+		INJECTED from /Users/Wadek/Desktop/ElMuzarae/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Wadek/Desktop/ElMuzarae/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/Wadek/Desktop/ElMuzarae/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [com.google.firebase:firebase-database:16.0.4] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/53a160af6ed80fdfb7b58ee0b2f7244a/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-database:16.0.4] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/53a160af6ed80fdfb7b58ee0b2f7244a/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-storage:16.0.4] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/767da5bea6a247a927040a4cf35a9672/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-storage:16.0.4] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/767da5bea6a247a927040a4cf35a9672/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from /Users/Wadek/Desktop/ElMuzarae/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/Wadek/Desktop/ElMuzarae/app/src/main/AndroidManifest.xml:7:5-36:19
+MERGED from [de.hdodenhof:circleimageview:3.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/f8de9891a9618616dfcf2281b5c3c2ac/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/f8de9891a9618616dfcf2281b5c3c2ac/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/bcf2c988cacb138510bceab2ce1763bc/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/bcf2c988cacb138510bceab2ce1763bc/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/44ee488fa3e191c187a93b6e8fc4600a/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/44ee488fa3e191c187a93b6e8fc4600a/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/9f6ffc4ede52469add54da46e55cc1e1/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/9f6ffc4ede52469add54da46e55cc1e1/AndroidManifest.xml:23:5-40:19
+MERGED from [com.github.sd6352051.niftydialogeffects:niftydialogeffects:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/2a4d5a19c472d416d3ebf14024b336bf/AndroidManifest.xml:11:5-12:19
+MERGED from [com.github.sd6352051.niftydialogeffects:niftydialogeffects:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/2a4d5a19c472d416d3ebf14024b336bf/AndroidManifest.xml:11:5-12:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/80f9b857c8ac66c481080a700d20b2a9/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/80f9b857c8ac66c481080a700d20b2a9/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/7641d3c88a25ef26a0e2066c8a948c62/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/7641d3c88a25ef26a0e2066c8a948c62/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/cadc47acd0269da73a0412f7f21ed44e/AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/cadc47acd0269da73a0412f7f21ed44e/AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/04a18184c73a2c22403a334e00ab7455/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/04a18184c73a2c22403a334e00ab7455/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/f904c3e86bfa695575c914a77d5e9e0a/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/f904c3e86bfa695575c914a77d5e9e0a/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.1] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/d9138c8688e438d74e08f0324768c0d2/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/d9138c8688e438d74e08f0324768c0d2/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/aa1f0158064dc81ef23b7fd672d72805/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/aa1f0158064dc81ef23b7fd672d72805/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/d9138c8688e438d74e08f0324768c0d2/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/Wadek/Desktop/ElMuzarae/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/Wadek/Desktop/ElMuzarae/app/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /Users/Wadek/Desktop/ElMuzarae/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /Users/Wadek/Desktop/ElMuzarae/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /Users/Wadek/Desktop/ElMuzarae/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /Users/Wadek/Desktop/ElMuzarae/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.wadektech.el_muzarae.ui.FarmerUploadActivity
+ADDED from /Users/Wadek/Desktop/ElMuzarae/app/src/main/AndroidManifest.xml:14:9-15:68
+	android:theme
+		ADDED from /Users/Wadek/Desktop/ElMuzarae/app/src/main/AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from /Users/Wadek/Desktop/ElMuzarae/app/src/main/AndroidManifest.xml:14:19-58
+activity#com.wadektech.el_muzarae.auth.FarmerRegistrationFormActivity
+ADDED from /Users/Wadek/Desktop/ElMuzarae/app/src/main/AndroidManifest.xml:16:9-18:68
+	android:theme
+		ADDED from /Users/Wadek/Desktop/ElMuzarae/app/src/main/AndroidManifest.xml:18:13-56
+	android:name
+		ADDED from /Users/Wadek/Desktop/ElMuzarae/app/src/main/AndroidManifest.xml:17:13-64
+activity#com.wadektech.el_muzarae.ui.FarmProductDetailActivity
+ADDED from /Users/Wadek/Desktop/ElMuzarae/app/src/main/AndroidManifest.xml:19:9-21:68
+	android:theme
+		ADDED from /Users/Wadek/Desktop/ElMuzarae/app/src/main/AndroidManifest.xml:21:13-56
+	android:name
+		ADDED from /Users/Wadek/Desktop/ElMuzarae/app/src/main/AndroidManifest.xml:20:13-57
+activity#com.wadektech.el_muzarae.auth.SignUpActivity
+ADDED from /Users/Wadek/Desktop/ElMuzarae/app/src/main/AndroidManifest.xml:22:9-31:20
+	android:screenOrientation
+		ADDED from /Users/Wadek/Desktop/ElMuzarae/app/src/main/AndroidManifest.xml:24:13-49
+	android:theme
+		ADDED from /Users/Wadek/Desktop/ElMuzarae/app/src/main/AndroidManifest.xml:25:13-56
+	android:name
+		ADDED from /Users/Wadek/Desktop/ElMuzarae/app/src/main/AndroidManifest.xml:23:13-48
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/Wadek/Desktop/ElMuzarae/app/src/main/AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from /Users/Wadek/Desktop/ElMuzarae/app/src/main/AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from /Users/Wadek/Desktop/ElMuzarae/app/src/main/AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Wadek/Desktop/ElMuzarae/app/src/main/AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from /Users/Wadek/Desktop/ElMuzarae/app/src/main/AndroidManifest.xml:29:27-74
+activity#com.wadektech.el_muzarae.ui.MainActivity
+ADDED from /Users/Wadek/Desktop/ElMuzarae/app/src/main/AndroidManifest.xml:32:9-35:59
+	android:label
+		ADDED from /Users/Wadek/Desktop/ElMuzarae/app/src/main/AndroidManifest.xml:34:13-45
+	android:theme
+		ADDED from /Users/Wadek/Desktop/ElMuzarae/app/src/main/AndroidManifest.xml:35:13-56
+	android:name
+		ADDED from /Users/Wadek/Desktop/ElMuzarae/app/src/main/AndroidManifest.xml:33:13-44
+uses-sdk
+INJECTED from /Users/Wadek/Desktop/ElMuzarae/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/Wadek/Desktop/ElMuzarae/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Wadek/Desktop/ElMuzarae/app/src/main/AndroidManifest.xml
+MERGED from [de.hdodenhof:circleimageview:3.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/f8de9891a9618616dfcf2281b5c3c2ac/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/f8de9891a9618616dfcf2281b5c3c2ac/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/bcf2c988cacb138510bceab2ce1763bc/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/bcf2c988cacb138510bceab2ce1763bc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/49ca4fa73570ee79396100910b4e4fd7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/49ca4fa73570ee79396100910b4e4fd7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/44ee488fa3e191c187a93b6e8fc4600a/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/44ee488fa3e191c187a93b6e8fc4600a/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/19b3cb5109798ea7866cf153881821ec/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/19b3cb5109798ea7866cf153881821ec/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/9f6ffc4ede52469add54da46e55cc1e1/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/9f6ffc4ede52469add54da46e55cc1e1/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-database:16.0.4] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/53a160af6ed80fdfb7b58ee0b2f7244a/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-database:16.0.4] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/53a160af6ed80fdfb7b58ee0b2f7244a/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-storage:16.0.4] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/767da5bea6a247a927040a4cf35a9672/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-storage:16.0.4] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/767da5bea6a247a927040a4cf35a9672/AndroidManifest.xml:19:5-21:41
+MERGED from [com.github.sd6352051.niftydialogeffects:niftydialogeffects:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/2a4d5a19c472d416d3ebf14024b336bf/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.sd6352051.niftydialogeffects:niftydialogeffects:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/2a4d5a19c472d416d3ebf14024b336bf/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/d3fe930c047f0fdb6d401aa55e01e493/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/d3fe930c047f0fdb6d401aa55e01e493/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/80f9b857c8ac66c481080a700d20b2a9/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/80f9b857c8ac66c481080a700d20b2a9/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/7641d3c88a25ef26a0e2066c8a948c62/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/7641d3c88a25ef26a0e2066c8a948c62/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/cadc47acd0269da73a0412f7f21ed44e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/cadc47acd0269da73a0412f7f21ed44e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/04a18184c73a2c22403a334e00ab7455/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/04a18184c73a2c22403a334e00ab7455/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/2d23b78f0c554a5eb242c3fc3892d193/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/2d23b78f0c554a5eb242c3fc3892d193/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/f904c3e86bfa695575c914a77d5e9e0a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/f904c3e86bfa695575c914a77d5e9e0a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/c80100120bd716f96e6b6ad995d6e3f2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/c80100120bd716f96e6b6ad995d6e3f2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/d04a639f85296a94e1abe536865897b1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/d04a639f85296a94e1abe536865897b1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/7d1831270e07642d1c2bb80f074f97c9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/7d1831270e07642d1c2bb80f074f97c9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/a17a6bff8b8c9f0bf6f893e141e4fdce/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/a17a6bff8b8c9f0bf6f893e141e4fdce/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/5e23ddec998877cb13edd9ca87345df5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/5e23ddec998877cb13edd9ca87345df5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/13896c94c1166187fb89a205623c4710/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/13896c94c1166187fb89a205623c4710/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/c46a86bdf7eafcbb696287439566d180/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/c46a86bdf7eafcbb696287439566d180/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/b3cdf708885354d593d9d37233901357/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/b3cdf708885354d593d9d37233901357/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/ff80133a1e8189f9cea630449883ff8d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/ff80133a1e8189f9cea630449883ff8d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/d831808e17a94f614fa551f889ddcdc4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/d831808e17a94f614fa551f889ddcdc4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/4356ca2608e0332df9f9b1ea12ee4590/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/4356ca2608e0332df9f9b1ea12ee4590/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/c839318f96163d218025a72242e3281a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/c839318f96163d218025a72242e3281a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/31afa54d7d728762e951930e88649c39/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/31afa54d7d728762e951930e88649c39/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/0e41d0bdf84d2d58480160bb70094e5d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/0e41d0bdf84d2d58480160bb70094e5d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/021746a91e651357c88a01e768c6ee89/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/021746a91e651357c88a01e768c6ee89/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/7a38d6a27379b68caa23f7fa28f58d82/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/7a38d6a27379b68caa23f7fa28f58d82/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/36d58fdccd99aef12bf0dc35b6e9f4b7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/36d58fdccd99aef12bf0dc35b6e9f4b7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/d9138c8688e438d74e08f0324768c0d2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/d9138c8688e438d74e08f0324768c0d2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/aa1f0158064dc81ef23b7fd672d72805/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/aa1f0158064dc81ef23b7fd672d72805/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/16f6d7b90ce350ff2319e0fd82f65573/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/16f6d7b90ce350ff2319e0fd82f65573/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/6cd30847ed7c7cb907b4c3ea9d8e5d1e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/6cd30847ed7c7cb907b4c3ea9d8e5d1e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/c52f594fff8b4f05057d6f826c9da3fb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/c52f594fff8b4f05057d6f826c9da3fb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/344d3aebf47cf93699411e577defc75d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/344d3aebf47cf93699411e577defc75d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/37e363a1ebf3e1409fc9040dd4b83b1b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/37e363a1ebf3e1409fc9040dd4b83b1b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/b205c77b9e5e29fc4b3a869c4f6a5a58/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/b205c77b9e5e29fc4b3a869c4f6a5a58/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/8009c04fdcd38c10231f624471d459d4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/8009c04fdcd38c10231f624471d459d4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/7cb85e51328deccb8f2b29090c25598c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/7cb85e51328deccb8f2b29090c25598c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/aaf6c90e07a49547ec946cd4e6442262/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/aaf6c90e07a49547ec946cd4e6442262/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/60fec8457f21e560d3f4df5cb32a2a22/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/60fec8457f21e560d3f4df5cb32a2a22/AndroidManifest.xml:20:5-44
+INJECTED from /Users/Wadek/Desktop/ElMuzarae/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Wadek/Desktop/ElMuzarae/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/Wadek/Desktop/ElMuzarae/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Wadek/Desktop/ElMuzarae/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Wadek/Desktop/ElMuzarae/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/Wadek/Desktop/ElMuzarae/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Wadek/Desktop/ElMuzarae/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Wadek/Desktop/ElMuzarae/app/src/main/AndroidManifest.xml
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/9f6ffc4ede52469add54da46e55cc1e1/AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/9f6ffc4ede52469add54da46e55cc1e1/AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/9f6ffc4ede52469add54da46e55cc1e1/AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/9f6ffc4ede52469add54da46e55cc1e1/AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/9f6ffc4ede52469add54da46e55cc1e1/AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/9f6ffc4ede52469add54da46e55cc1e1/AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/9f6ffc4ede52469add54da46e55cc1e1/AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/9f6ffc4ede52469add54da46e55cc1e1/AndroidManifest.xml:25:13-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/9f6ffc4ede52469add54da46e55cc1e1/AndroidManifest.xml:33:9-39:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/9f6ffc4ede52469add54da46e55cc1e1/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/9f6ffc4ede52469add54da46e55cc1e1/AndroidManifest.xml:34:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/9f6ffc4ede52469add54da46e55cc1e1/AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/9f6ffc4ede52469add54da46e55cc1e1/AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/9f6ffc4ede52469add54da46e55cc1e1/AndroidManifest.xml:37:17-109
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-database:16.0.4] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/53a160af6ed80fdfb7b58ee0b2f7244a/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-storage:16.0.4] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/767da5bea6a247a927040a4cf35a9672/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-storage:16.0.4] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/767da5bea6a247a927040a4cf35a9672/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-database:16.0.4] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/53a160af6ed80fdfb7b58ee0b2f7244a/AndroidManifest.xml:22:22-76
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/7641d3c88a25ef26a0e2066c8a948c62/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/7641d3c88a25ef26a0e2066c8a948c62/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/7641d3c88a25ef26a0e2066c8a948c62/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/7641d3c88a25ef26a0e2066c8a948c62/AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/cadc47acd0269da73a0412f7f21ed44e/AndroidManifest.xml:10:9-14:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/cadc47acd0269da73a0412f7f21ed44e/AndroidManifest.xml:12:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/cadc47acd0269da73a0412f7f21ed44e/AndroidManifest.xml:13:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/cadc47acd0269da73a0412f7f21ed44e/AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/cadc47acd0269da73a0412f7f21ed44e/AndroidManifest.xml:11:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.1.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/f904c3e86bfa695575c914a77d5e9e0a/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/f904c3e86bfa695575c914a77d5e9e0a/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] /Users/Wadek/.gradle/caches/transforms-2/files-2.1/f904c3e86bfa695575c914a77d5e9e0a/AndroidManifest.xml:24:13-58

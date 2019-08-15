@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1038334063810-4tr5ld6uefk9nt8hgsrt6u417c7l2c2m.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://m-zirae.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1038334063810</string>
+    <string name="google_api_key" translatable="false">AIzaSyByAvC53Y4JOlXPp6jCA9EIgsfZvmN6skE</string>
+    <string name="google_app_id" translatable="false">1:1038334063810:android:c0afe531e82c90d7</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyByAvC53Y4JOlXPp6jCA9EIgsfZvmN6skE</string>
+    <string name="google_storage_bucket" translatable="false">m-zirae.appspot.com</string>
+    <string name="project_id" translatable="false">m-zirae</string>
+</resources>
